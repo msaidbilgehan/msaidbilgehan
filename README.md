@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msaidbilgehan&label=Profile%20views&color=0e75b6&style=flat-square" alt="msaidbilgehan" /> </p>
 
-Doing nothing before existence as far as I know, floating in the existence.
+Doing nothing before existence as far as I know, and now floating in the existence.
 
 <h3 align="left">Connect with me:</h3>
 
