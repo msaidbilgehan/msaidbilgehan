@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammed Said BİLGEHAN</h1>
-<h3 align="center">A Human Being</h3>
+<h1 align="center">Muhammed Said BİLGEHAN</h1>
+<h3 align="center">A Human Being - Model v19-CE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msaidbilgehan&label=Profile%20views&color=0e75b6&style=flat-square" alt="msaidbilgehan" /> </p>
 
