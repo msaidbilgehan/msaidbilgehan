@@ -5,6 +5,13 @@
 
 Doing nothing before existence as far as I know, and now floating in the existence.
 
+<h3 align="left">A few things:</h3>
+
+- [A multi-way linked-list approach with multi-threaded search algorithms](https://github.com/msaidbilgehan/Simultaneous-Multi-Way-Linkedlist)
+- [Open-source, privacy-first multi-session browser manager — entirely local](https://github.com/msaidbilgehan/unaware-sessions-browser-extension)
+- [Power-tool-first Chrome extension for browser automation](https://github.com/msaidbilgehan/Browser-Automata-Extension)
+- [Scraper-GMaps-Bot is a multi-threaded, automated scraper designed to extract business listings from Google Maps based on specified keywords and geolocations (messy one)](https://github.com/msaidbilgehan/Scraper-GMaps-Bot)
+
 <h3 align="left">Connect with me:</h3>
 
 | <a href="https://twitter.com/msaidbilgehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="msaidbilgehan" height="30" width="40" /></a> | <a href="https://linkedin.com/in/msaidbilgehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msaidbilgehan" height="30" width="40" /></a> | <a href="https://stackoverflow.com/users/msaidbilgehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="msaidbilgehan" height="30" width="40" /></a> | <a href="https://kaggle.com/msaidbilgehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="msaidbilgehan" height="30" width="40" /></a> | <a href="https://instagram.com/msaidbilgehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="msaidbilgehan" height="30" width="40" /></a> |
