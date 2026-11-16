@@ -27,3 +27,6 @@ Doing nothing before existence as far as I know, and now floating in the existen
 | <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="debian" width="40" height="40"/> </a> | <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="debian" width="40" height="40"/> </a> | | | | |
 | | | | | | |
 
+<h3 align="left">Support:</h3>
+
+<p align="left"><a href="https://buymeacoffee.com/msaidbilgex" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50" width="210" /></a></p>
