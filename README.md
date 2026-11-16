@@ -9,7 +9,7 @@ Doing nothing before existence as far as I know, and now floating in the existen
 
 - [A multi-way linked-list approach with multi-threaded search algorithms](https://github.com/msaidbilgehan/Simultaneous-Multi-Way-Linkedlist)
 - [Open-source, privacy-first multi-session browser manager — entirely local](https://github.com/msaidbilgehan/unaware-sessions-browser-extension)
-- [Power-tool-first Chrome extension for browser automation](https://github.com/msaidbilgehan/Browser-Automata-Extension)
+- [Kişisel Finans Asistanı - Personal Finance Assistant](https://github.com/msaidbilgehan/iplikci-nedim/)
 - [Scraper-GMaps-Bot is a multi-threaded, automated scraper designed to extract business listings from Google Maps based on specified keywords and geolocations (messy one)](https://github.com/msaidbilgehan/Scraper-GMaps-Bot)
 
 <h3 align="left">Connect with me:</h3>
